@@ -55,13 +55,7 @@ GitHub Repository:
 
 [https://github.com/Ayshamahshoofa/Hasta-Kala](https://github.com/Ayshamahshoofa/Hasta-Kala)
 
-## 🌐 Live Demo URL
 
-Currently, the live APK/demo link is not available.
-
-```text
-https://your-live-demo-link.com
-```
 
 ## 👩‍💻 Developed By
 
